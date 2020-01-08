@@ -1,0 +1,10 @@
+README.md
+setup.py
+Example_Functional_Package.egg-info/PKG-INFO
+Example_Functional_Package.egg-info/SOURCES.txt
+Example_Functional_Package.egg-info/dependency_links.txt
+Example_Functional_Package.egg-info/entry_points.txt
+Example_Functional_Package.egg-info/top_level.txt
+example_package/__init__.py
+example_package/modules.py
+example_package/parser.py

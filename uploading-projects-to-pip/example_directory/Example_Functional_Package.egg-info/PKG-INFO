@@ -1,0 +1,18 @@
+Metadata-Version: 2.1
+Name: Example-Functional-Package
+Version: 1.0.1
+Summary: Does cool stuff.
+Home-page: https://github.com/example/example
+Author: Example Author
+Author-email: example@example.com
+License: UNKNOWN
+Description: # Example_Package!
+        
+        A package that can do some cool number things and file manipulation!
+        
+Keywords: parser,file-parser,packages,example,numbers
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
