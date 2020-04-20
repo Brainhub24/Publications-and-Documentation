@@ -38,6 +38,9 @@ Repository with wiki containing all my publications and writings:
 #### django-point-system, A full stack web app point system to track attendance
 * [View on GitHub](https://github.com/saleguas/django-point-system/blob/master/README.md)
 
+#### PastPapersDownloader, A tool created with python to bulk download past papers(AICE As and A levels, IGCSEs, O-Levels)
+* [View on GitHub](https://github.com/saleguas/PastPapersDownloader)
+
 #### DeskOrg, a less robust and fancy version of freshen
 * [View on GitHub](https://github.com/saleguas/deskOrg/blob/master/README.md)
 
